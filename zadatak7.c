@@ -1,5 +1,8 @@
 
 //nije dovrseno
+//atoi i strtok funkcije
+//ucitamo cijeli string
+//ili funkcija sscanf(buffer, "%d" &br);
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
